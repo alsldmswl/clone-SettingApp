@@ -4,12 +4,12 @@
 * Navigation Controller를 통한 화면 전환과 xib로 Custom Cell를 만들어 적용시키는 방법을 학습하기 위한 프로젝트 입니다.
 ---
 ## 프로젝트 설명
-* 사용언어
+* 사용기술
 
 
   <img src = "https://user-images.githubusercontent.com/82255206/221416181-33a9e911-05f4-424a-bbdb-f8530364e598.png" width="100" height="100"/>
   
-* 사용환경
+* 개발환경
 
 
   <img src = "https://user-images.githubusercontent.com/82255206/221416207-0e80bf80-56a3-4911-99c2-9a04121bb8cb.png" width="100" height="100"/> 
